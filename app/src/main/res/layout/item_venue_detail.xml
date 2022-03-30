@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_venue_type1_tv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="start|bottom"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/background_item_venue_span"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp"
+    tools:text="Type 1 / type 3"
+    android:textColor="@color/white"
+    android:textSize="14sp"
+    android:clickable="false"
+    tools:showIn="@layout/item_venue" />

@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Adyen_assignment</string>
+    <string name="app_name">Android Assignment</string>
+    <string name="foursquare_venues">4square Venues</string>
+    <string name="loading">Loading...</string>
+    <string name="success_venues">Success venues</string>
+    <string name="location">Location:</string>
+    <string name="neighborhood">Neighborhood:</string>
+    <string name="geocode">Geocode:</string>
+    <string name="distance">Distance:</string>
+    <string name="location_permission_title">Allow location permission</string>
+    <string name="location_permission_message">It is necessary to permit location access to use the app</string>
+    <string name="permission_needed">Permission needed</string>
+    <string name="OK">OK</string>
+    <string name="allow">Allow</string>
 </resources>
